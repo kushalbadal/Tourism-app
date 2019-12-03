@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397400430450",
+    "firebase_url": "https://bhaktapur-7f8c7.firebaseio.com",
+    "project_id": "bhaktapur-7f8c7",
+    "storage_bucket": "bhaktapur-7f8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397400430450:android:9614d27ab6853e09c2efeb",
+        "android_client_info": {
+          "package_name": "com.example.bhaktapur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397400430450-svtc9e5qdsthn5hua05v092v6a556b7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyI0FM-rdEbpJfSq6gCvzq4r0jvQZacI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397400430450-svtc9e5qdsthn5hua05v092v6a556b7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
